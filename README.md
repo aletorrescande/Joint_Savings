@@ -21,4 +21,4 @@ It is done by following these 3 steps:
    Withdraw 5 eth from Account 1:
   <img src="./results/withdraw_5.png" title="hover text"><br>
    Withdraw 10 eth from Account 2:
-  <img src="./results/withdraw_10.png.png" title="hover text"><br>
+  <img src="./results/withdraw_10.png" title="hover text"><br>
